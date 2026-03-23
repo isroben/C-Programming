@@ -1,0 +1,1 @@
+ This repo consists all basics of C programming that are taught in first semester of Undergrad Programms.
