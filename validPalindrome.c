@@ -17,7 +17,10 @@ bool isPalindrome(char str[]){ // Two pointer approach
 }
 
 int main(){
-    char str[] = "cac";
+    char str[20];
+
+    printf("Enter the string: ");
+    scanf("%s", str);
 
     bool result = isPalindrome(str);
 
