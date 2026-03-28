@@ -22,6 +22,7 @@ int main(){
             second = arr[i];
         }
     }
+    printf("The largest element in Arrat is: %d\n", largest);
     printf("The second largest element in Array is: %d\n", second);
 
     return 0;
