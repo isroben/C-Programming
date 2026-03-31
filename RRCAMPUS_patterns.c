@@ -32,6 +32,7 @@ int main()
     char str1[] = "RRCAMPUS";
     RRCAMPUS(str1);
 
+    printf("\n");
     char str2[] = "RRBCA";
     RRBCA(str2);
 

@@ -31,10 +31,10 @@ int main(){
         printf("\nThese strings are same and equal.");
     }
     else if(result > 0){
-        printf("\nThe First string is greater than the second one");
+        printf("\nThe First string is greater than the second one.");
     }
     else{
-        printf("\nThe First string is less than second string one");
+        printf("\nThe First string is less than second string one\n.");
     }
 
 

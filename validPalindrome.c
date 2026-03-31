@@ -25,10 +25,10 @@ int main(){
     bool result = isPalindrome(str);
 
     if(result){
-        printf("valid palindrome!");
+        printf("valid palindrome!\n");
     }
     else{
-        printf("Not a valid palindrome!");
+        printf("Not a valid palindrome!\n");
     }
 
     return 0;

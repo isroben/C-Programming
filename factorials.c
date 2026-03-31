@@ -15,7 +15,7 @@ int main(){
 
     long int result = fact(n);
 
-    printf("The factorial of given number is: %ld", result);
+    printf("The factorial of given number is: %ld\n", result);
 
     return 0;
 }

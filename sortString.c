@@ -32,6 +32,7 @@ int main(){
     for(int i=0; i<n; i++){
         printf("\n%s", str[i]);
     }
+    printf("\n");
 
     return 0;
 }

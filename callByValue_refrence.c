@@ -18,7 +18,7 @@ int main(){
 
     printf("\nThe value of n is: %d", a);
     decrement(&a); // call by refrence
-    printf("\nThe updated value of a is: %d", a);
+    printf("\nThe updated value of a is: %d\n", a);
 
     return 0;
 }

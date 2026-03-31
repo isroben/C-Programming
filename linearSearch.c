@@ -14,7 +14,7 @@ int main(){
     for(int i=0; i<n; i++){
         for(int j=0; j<n; j++){
             if(arr[i][j] == num){
-                printf("The %d lies on %d,%d index.", num, i,j);
+                printf("The %d lies on %d,%d index.\n", num, i,j);
             }
         }
     }

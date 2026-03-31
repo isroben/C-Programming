@@ -9,7 +9,7 @@ struct Books {
 };
 
 int main(){
-    int n = 1;
+    int n = 4;
 
     char author[30] = "Subin Bhattrai";
 
