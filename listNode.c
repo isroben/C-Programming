@@ -7,7 +7,7 @@ struct ListNode{
 
 };
 
-void List(struct ListNode* ptr){
+void List(struct ListNode *ptr){
     printf("Elements are: ");
     while(ptr !=  NULL){
         printf("%d, ", ptr->data);
